@@ -21,6 +21,8 @@ The **Holdingo Sales Prediction and Route Suggestion** project is a comprehensiv
 4. **Interactive Dashboard**:
    - Built in **Power BI** to visualize and monitor key performance indicators (KPIs), such as sales trends, customer behaviors, and seller performance.
      you can find it in the following link: [link](https://app.powerbi.com/view?r=eyJrIjoiYjdjOGUxY2MtNWVkNi00NGI0LThmMTAtYzA2M2U5ZWM5N2FkIiwidCI6IjhiYjA1YjAwLTdmNDgtNDc4NS05NjgwLTkzYjgwYTM0NTVhNSJ9)
+     ![image](https://github.com/user-attachments/assets/ce0601a8-5fc8-4f16-9246-38a5a9cca510)
+
 
 ## Prerequisites
 
